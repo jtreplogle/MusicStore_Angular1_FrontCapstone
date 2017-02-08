@@ -1,0 +1,110 @@
+[
+  {
+    "id":"1",
+    "title":"Fender Kingman",
+    "description":"This is the Fender Kingman description.",
+    "price":1100,
+    "posted":"2015-10-24",
+    "contact": {
+      "name":"John Doe",
+      "phone":"(555) 555-5555",
+      "email":"johndoe@gmail.com"
+    },
+    "categories":[
+      "Fender",
+      "Bass"
+    ],
+    "image": "http://i1379.photobucket.com/albums/ah123/jreplogle37/FENDER_KINGMAN_BASS_SCE_NATURAL_WC_FRONT_zpspvtfqxc3.jpg",
+    "views":213
+  },
+  {
+    "id":"2",
+    "title":"Fender Stratocaster",
+    "description":"This is the Fender Strat description.",
+    "price": 1549,
+    "posted": "2015-10-28",
+    "contact": {
+      "name": "Jane Doe",
+      "phone": "(555) 555-5555",
+      "email": "janedoe@gmail.com"
+    },
+    "categories": [
+      "Fender",
+      "Electric"
+    ],
+    "image":"http://i1379.photobucket.com/albums/ah123/jreplogle37/28994-Fender-American-Standard_zpskly6vd0m.jpg",
+    "views": 422
+  },
+  {
+    "id":"3",
+    "title":"Gibson Hummingbird",
+    "description":"This is the Gibson Hummingbird description.",
+    "price":2350,
+    "posted":"2015-10-27",
+    "contact": {
+      "name":"Jane Doe",
+      "phone":"(555) 555-5555",
+      "email":"janedoe@gmail.com"
+    },
+    "categories":[
+      "Gibson",
+      "Accoustic"
+    ],
+    "image":"http://i1379.photobucket.com/albums/ah123/jreplogle37/61S4EtMSXoL._SY450__zps8ii2zytn.jpg",
+    "views":23
+  },
+  {
+    "id":"4",
+    "title":"1960 Gibson Les Paul",
+    "description":"This is the Gibson Les Paul description.",
+    "price":2250,
+    "posted":"2015-11-01",
+    "contact": {
+      "name":"John Doe",
+      "phone":"(555) 555-5555",
+      "email":"johndoe@gmail.com"
+    },
+    "categories":[
+      "Gibson",
+      "Electric"
+    ],
+    "image":"http://i1379.photobucket.com/albums/ah123/jreplogle37/Gibson%20LP%20Gold_zpsbsxl4ztq.jpg",
+    "views":77
+  },
+  {
+    "id":"5",
+    "title":"Fender Jazz Bass",
+    "description":"This is the Fender Jazz Bass description.",
+    "price":1150,
+    "posted":"2015-11-02",
+    "contact": {
+      "name":"John Doe",
+      "phone":"(555) 555-5555",
+      "email":"johndoe@gmail.com"
+    },
+    "categories":[
+      "Fender",
+      "Bass"
+    ],
+    "image":"http://i1379.photobucket.com/albums/ah123/jreplogle37/Fender%20Jazz%20Base_zpsvdxz5t5i.jpg",
+    "views":889
+  },
+  {
+    "id":"6",
+    "title":"Ibanez SR-756",
+    "description":"This is the Ibanex SR-756 description.",
+    "price":950,
+    "posted":"2015-11-03",
+    "contact": {
+      "name":"John Doe",
+      "phone":"(555) 555-5555",
+      "email":"johndoe@gmail.com"
+    },
+    "categories":[
+      "Ibanez",
+      "Bass"
+    ],
+    "image":"http://i1379.photobucket.com/albums/ah123/jreplogle37/ibanez-soundgear-sr756-ntf_zpswjiefpkt.jpg",
+    "views":423
+  }
+]
